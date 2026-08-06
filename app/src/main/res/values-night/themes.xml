@@ -1,0 +1,8 @@
+<resources>
+    <!-- Keep transparent in dark mode as well -->
+    <style name="Theme._10MinuteAlarm" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
