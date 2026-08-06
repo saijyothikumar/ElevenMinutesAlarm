@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="app/src/main/res/drawable/ic_launcher_foreground.xml" width="100" height="100" alt="App Icon">
-</p>
-
 <h1 align="center">Eleven Minutes Alarm</h1>
 
 <p align="center">
-  <strong>The fastest way to set a 11-minute alarm. No UI.</strong>
+  <strong>The fastest way to set an 11-minute alarm. No UI.</strong>
 </p>
 
 ---
