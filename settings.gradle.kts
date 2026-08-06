@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "10 Minute Alarm"
+rootProject.name = "Eleven Minutes Alarm"
 include(":app")
- 
